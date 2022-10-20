@@ -1,4 +1,6 @@
 #!/usr/bin/python3
+# SPDX-FileCopyringhtText: 2022 Takato Tanimoto
+
 import sys
 
 ans = 0
