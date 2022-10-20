@@ -1,5 +1,6 @@
 #!/usr/bin/python3
 # SPDX-FileCopyringhtText: 2022 Takato Tanimoto
+# SPEDX-License-Identifier: BSD-3-Clause
 
 import sys
 
