@@ -17,12 +17,12 @@ out=$(seq 5 | ./plus_stdin.py)
 
 ### STRANGE INPUT ###
 out=$(echo あ | ./plus_stdin.py)
-[ "$?" =1 ]       || ng ${LINENO}
-[ "${out}" ="" ]  || ng ${LINENO}
-
+[ "$?" = 1 ]      || ng ${LINENO}
+[ "${out}" = "" ] || ng ${LINENO}
+                  　 
 out=$(echo | ./plus_stdin.py)
 [ "$?" = 1 ]      || ng ${LINENO}
-[ "${out}" ="" ]  || ng ${LINENO}
-
+[ "${out}" = "" ] || ng ${LINENO}
+                            　 
 [ "$res" = 0 ] && echo OK
-exit $res
+exit $res 
