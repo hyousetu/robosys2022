@@ -2,6 +2,11 @@
 ![test](https://github.com/tanimoto:takato/robosys2022/actions/workflows/test.yml/badge.svg)
 
 このリポジトリにはplusとtestが含まれる。
+標準入力からの数字の足し算が出来ます。
+
+## 開発環境
+　・Ubuntu18.04.5 on windows
+
 
 ## ライセンス
 
