@@ -3,7 +3,8 @@
 
 このリポジトリにはplusとtestが含まれる。
 
-#ライセンス
+## ライセンス
+
 　Note: This license has also been called the "New BSD License" or "Modified BSD License". See also the 2-clause BSD License.
 
 Copyright 2022 谷本　隆翔
